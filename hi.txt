@@ -1,2 +1,2 @@
-Hello I am Hi File
+Hello I am Hi File,Hello everyone Git is very powerful
 i am learning git by majrool sir
